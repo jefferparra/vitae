@@ -1,1 +1,1 @@
-echo "# vitae" >> README.md
+echo "# vitae" 
